@@ -1,22 +1,25 @@
 {
-  "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.c116ce3c.js",
-    "static/js/787.4763c13b.chunk.js": "/static/js/787.4763c13b.chunk.js",
-    "static/media/ci.svg": "/static/media/ci.dfa7c23bbe7a575ba543b9b3318bbe2b.svg",
-    "static/media/flutter.svg": "/static/media/flutter.4fd5520fe28ebf839174a6604e02bc39.svg",
-    "index.html": "/index.html",
-    "static/media/react.svg": "/static/media/react.f1484e295933af0e748d6a01b05a8361.svg",
-    "static/media/node.svg": "/static/media/node.3cefb87cef6741167865c3a566932897.svg",
-    "static/media/ai.svg": "/static/media/ai.01edb13bd9b54991c4f6eeb877ebc48e.svg",
-    "static/media/logo_filled.svg": "/static/media/logo_filled.05a3dd4af1aa098a303270193007a507.svg",
-    "static/media/logo.svg": "/static/media/logo.356cefaf9d07bce2bd7abeb63129f2cb.svg",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.c116ce3c.js.map": "/static/js/main.c116ce3c.js.map",
-    "787.4763c13b.chunk.js.map": "/static/js/787.4763c13b.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.c116ce3c.js"
-  ]
+  "main.css": "/static/css/main.fd6bb5ce.chunk.css",
+  "main.js": "/static/js/main.48cccd4e.chunk.js",
+  "main.js.map": "/static/js/main.48cccd4e.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.f6a04f92.js",
+  "runtime~main.js.map": "/static/js/runtime~main.f6a04f92.js.map",
+  "static/js/2.0f6c7f05.chunk.js": "/static/js/2.0f6c7f05.chunk.js",
+  "static/js/2.0f6c7f05.chunk.js.map": "/static/js/2.0f6c7f05.chunk.js.map",
+  "static/js/3.f3a4d0fe.chunk.js": "/static/js/3.f3a4d0fe.chunk.js",
+  "static/js/3.f3a4d0fe.chunk.js.map": "/static/js/3.f3a4d0fe.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.f8251ddaa5c55b5d94774720c4efaad7.js": "/precache-manifest.f8251ddaa5c55b5d94774720c4efaad7.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.fd6bb5ce.chunk.css.map": "/static/css/main.fd6bb5ce.chunk.css.map",
+  "static/media/ai.svg": "/static/media/ai.c3562bb4.svg",
+  "static/media/ci.svg": "/static/media/ci.faa96d91.svg",
+  "static/media/flutter.svg": "/static/media/flutter.817b4a56.svg",
+  "static/media/graphic_design.png": "/static/media/graphic_design.59a1666b.png",
+  "static/media/logo.svg": "/static/media/logo.2b4c9431.svg",
+  "static/media/logo_filled.svg": "/static/media/logo_filled.0de7b23a.svg",
+  "static/media/node.svg": "/static/media/node.c675a4b6.svg",
+  "static/media/process.png": "/static/media/process.81b7c656.png",
+  "static/media/react.svg": "/static/media/react.f0793d9f.svg",
+  "static/media/website.png": "/static/media/website.4411fe4a.png"
 }
